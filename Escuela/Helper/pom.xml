@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>ar.com.marete</groupId>
-  <artifactId>api</artifactId>
+  <artifactId>Helper</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>api</name>
+  <name>Helper</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

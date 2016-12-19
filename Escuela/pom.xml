@@ -10,5 +10,6 @@
     <module>Escuela-core</module>
     <module>Escuela-web</module>
     <module>api</module>
+    <module>Helper</module>
   </modules>
 </project>
