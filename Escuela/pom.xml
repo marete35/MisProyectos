@@ -9,5 +9,6 @@
     <module>Escuela-dao</module>
     <module>Escuela-core</module>
     <module>Escuela-web</module>
+    <module>api</module>
   </modules>
 </project>
